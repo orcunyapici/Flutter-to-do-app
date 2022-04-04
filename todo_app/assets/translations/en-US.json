@@ -1,0 +1,8 @@
+{
+    "appBar":"What will you do today?",
+    "empty_task_list":"Add a task",
+    "add_title":"Title",
+    "add_subtitle":"Subtitle",
+    "remove_task":"This task was deleted.",
+    "search_not_found":"We couldn't find anything"
+}
